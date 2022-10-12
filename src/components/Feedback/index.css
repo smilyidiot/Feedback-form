@@ -1,0 +1,46 @@
+/* Write your CSS code here. */
+
+.bg-cont {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.card {
+  background-color: #ffebeb;
+  border-radius: 20px;
+  text-align: center;
+  padding: 20px;
+  padding-left: 0px;
+  box-shadow: 2px 5px 10px black;
+}
+
+.main-head {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.emoji-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.love-emoji {
+  height: 80px;
+}
+
+.head {
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.para {
+  font-size: 20px;
+  padding-left: 20px;
+}
